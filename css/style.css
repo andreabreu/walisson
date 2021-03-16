@@ -96,12 +96,12 @@ h6 {
     font-family: 'Pathway Gothic One', sans-serif;
     font-size: 14px;
     text-transform: uppercase;
-    color: #f96f00;
+    color: #919191;
     font-weight: 400;
     letter-spacing: 5px;
 }
 .title span a {
-    color: #f96f00;
+    color: #919191;
 }
 img {
     border: none;
@@ -397,7 +397,7 @@ td {
 #loader .loading {
     display: block;
     font-size: 0;
-    color: #f96f00;
+    color: #919191;
     width: 40px;
     height: 40px;
 }
@@ -483,7 +483,7 @@ td {
     font-weight: 400;
 }
 .navbar .navbar-nav .active {
-    color: #f96f00 !important;
+    color: #919191 !important;
 }
 .nav-scroll {
     background: #000;
@@ -501,7 +501,7 @@ td {
     z-index: 102;
 }
 .nav-scroll .icon-bar {
-    color: #f96f00;
+    color: #919191;
 }
 .nav-scroll .navbar-nav .nav-link {
     color: #fff;
@@ -566,7 +566,7 @@ td {
         padding: 4px 0px;
     }
     .nav-scroll .navbar-collapse .active {
-        color: #f96f00 !important;
+        color: #919191 !important;
     }
 }
 
@@ -590,7 +590,7 @@ td {
     color: #777;
     text-align: center;
 }
-.header .caption h1 {
+.header .caption h1 h2 {
     font-family: 'Pathway Gothic One', sans-serif;
     margin: 0;
     font-size: 60px;
@@ -655,8 +655,8 @@ td {
     opacity: 0.7;
 }
 .header .frame-inner .frame-1:before {
-    border-top: 1px solid #f96f00;
-    border-left: 1px solid #f96f00;
+    border-top: 1px solid #919191;
+    border-left: 1px solid #919191;
 }
 .header .frame-inner .frame-1:after {
     top: auto;
@@ -675,8 +675,8 @@ td {
     bottom: 0;
     left: auto;
     right: 0;
-    border-bottom: 1px solid #f96f00;
-    border-right: 1px solid #f96f00;
+    border-bottom: 1px solid #919191;
+    border-right: 1px solid #919191;
 }
 @media screen and (max-width: 768px) {
     .header .frame-inner {
